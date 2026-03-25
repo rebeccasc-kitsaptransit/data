@@ -43,8 +43,8 @@ https://raw.githubusercontent.com/rebeccasc-kitsaptransit/data/main/bay/kt_trips
 - Records currently scoped to BTC (stop_id `1`) only
 
 ## Addtl Considerations
-  - xxx70 serviceID = 4   -- saturday service
-  - xxx80 serviceID = 1  -- sat / sunday service
+  - Route number ending in xxx70 corresponds to serviceID = 4   -- saturday service
+  - Route number ending in xxx80 corresponds to serviceID = 1  -- sat / sunday service
 - Where a single bay assignment is not available due to timing constraints, a range of 7-9 is assigned,
   - Warning: this value instantly converts to Jul-9 in Excel.
  
