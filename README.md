@@ -1,40 +1,27 @@
 ---
 
-# Kitsap Transit – Bremerton Transit Center (BTC) Bay Data
+# Kitsap Transit – Public Data
 
-Bay assignment for the Bremerton Transit Center (BTC) only.
+Publicly shared data from Kitsap Transit (KT) for use by third parties, developers, and transit information systems.
 
-## Source
-Kitsap Transit GTFS data feed with bay assignment where stop_id = `1` (Bremerton Transit Center).
+## Folder Structure
+```
+data/
+└── bay/
+    └── btc_bay.json        # Bremerton Transit Center bay assignments
+```
 
-## Service Period
-| Field | Date |
-|---|---|
-| Start Date | March 15, 2026 |
-| End Date | June 6, 2026 |
+## Usage
+Files are available for direct ingestion via raw GitHub URL, for example:
+```
+https://raw.githubusercontent.com/rebeccasc-kitsaptransit/kt-public-data/main/data/bay/btc_bay.json
 
-## File
-`btc_bay.json` — 509 records in JSON format.
 
-## Fields
-| Field | Description |
-|---|---|
-| `block_id` | The block identifier for the vehicle assignment |
-| `trip_id` | Unique trip identifier |
-| `service_id` | Service pattern identifier (e.g. weekday, Saturday, Sunday) |
-| `stop_id` | Stop identifier — all records in this file are stop `2` (BTC) |
-| `arrival_time` | Scheduled arrival time at BTC |
-| `departure_time` | Scheduled departure time from BTC |
-| `route_id` | Route identifier |
-| `start_date` | First date this schedule is valid |
-| `end_date` | Last date this schedule is valid |
+```
 
-## Notes
-- Records currently scoped to BTC (stop_id `1`) only
-- Times are in `HH:MM:SS` format
-- Dates are in `YYYY-MM-DD` format
-  - xxx70 serviceID = 4   -- saturday service
-  - xxx80 serviceID = 1  -- sat / sunday service
-- Where a single bay assignment is not available due to timing constraints, a range of 7-9 is assigned,
-  - Warning: this value instantly converts to Jul-9 in Excel.
- 
+## Data Format
+Files are published in  JSON format.
+
+## Updates
+Data is updated with Kitsap Transit seasonal changes and are valid between Start_Date and End_Date
+
