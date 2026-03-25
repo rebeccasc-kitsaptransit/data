@@ -3,8 +3,7 @@
 # Kitsap Transit – Bay Data
 
 Bay assignment for bus pickups
-  (3/25/26 - currently limited to Bremerton Transit Center (BTC)
- 
+  (3/25/26 - currently limited to Bremerton Transit Center (BTC)   
   (stop_id = 1)
 
 ## Source
@@ -17,9 +16,8 @@ Kitsap Transit GTFS data feed cross referenced against planner run card assignme
 | End Date | June 6, 2026 |
 
 ## File
-`btc_bay.json` — 509 records in JSON format and available at:
-
-https://raw.githubusercontent.com/rebeccasc-kitsaptransit/data/main/bay/kt_trips_bay_n509.json
+`btc_bay.json` — 509 records in JSON format and available at:  
+> https://raw.githubusercontent.com/rebeccasc-kitsaptransit/data/main/bay/kt_trips_bay_n509.json
 
 
 ## Fields
