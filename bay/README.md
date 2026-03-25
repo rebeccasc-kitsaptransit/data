@@ -8,6 +8,7 @@ Bay assignment for bus pickups
 
 ## Source
 Kitsap Transit GTFS data feed cross referenced against planner run card assignments 
+  
 
 ## Service Period
 | Field | Date |
@@ -15,10 +16,13 @@ Kitsap Transit GTFS data feed cross referenced against planner run card assignme
 | Start Date | March 15, 2026 |
 | End Date | June 6, 2026 |
 
+  
 ## File
-`btc_bay.json` — 509 records in JSON format and available at:  
-> `https://raw.githubusercontent.com/rebeccasc-kitsaptransit/data/main/bay/kt_trips_bay_n509.json`
+`kt_trips_bay_n509.json` — 509 records in JSON format
 
+**URL**  
+https://raw.githubusercontent.com/rebeccasc-kitsaptransit/data/main/bay/kt_trips_bay_n509.json  
+  
 
 ## Fields
 | Field | Description |
@@ -32,6 +36,7 @@ Kitsap Transit GTFS data feed cross referenced against planner run card assignme
 | `route_id` | Route identifier |
 | `start_date` | First date this schedule is valid |
 | `end_date` | Last date this schedule is valid |
+  
 
 ## Usage Notes
 - Times are in `HH:MM:SS` format
@@ -42,6 +47,7 @@ Kitsap Transit GTFS data feed cross referenced against planner run card assignme
   - Dates are in `YYYY-MM-DD` format
 - Records currently scoped to BTC (stop_id `1`) only
 
+  
 ## Addtl Considerations
   - Route number ending in xxx70 corresponds to serviceID = 4   -- saturday service
   - Route number ending in xxx80 corresponds to serviceID = 1  -- sat / sunday service
