@@ -1,11 +1,13 @@
 ---
 
-# Kitsap Transit – Bremerton Transit Center (BTC) Bay Data
+# Kitsap Transit – Bay Data
 
-Bay assignment for the Bremerton Transit Center (BTC) only.
+Bay assignment for bus pickups
+  (3/25/26 - currently limited to Bremerton Transit Center (BTC))
+  (stop_id = 1)
 
 ## Source
-Kitsap Transit GTFS data feed with bay assignment where stop_id = `1` (Bremerton Transit Center).
+Kitsap Transit GTFS data feed cross referenced against planner run card assignments 
 
 ## Service Period
 | Field | Date |
