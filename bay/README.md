@@ -4,7 +4,7 @@
 
 Bay assignment for bus pickups
   (3/25/26 - currently limited to Bremerton Transit Center (BTC)   
-  (stop_id = 1)
+  *(stop_id = 1)*
 
 ## Source
 Kitsap Transit GTFS data feed cross referenced against planner run card assignments 
