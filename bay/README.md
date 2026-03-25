@@ -14,7 +14,9 @@ Kitsap Transit GTFS data feed with bay assignment where stop_id = `1` (Bremerton
 | End Date | June 6, 2026 |
 
 ## File
-`btc_bay.json` — 509 records in JSON format.
+`btc_bay.json` — 509 records in JSON format and available at:
+https://raw.githubusercontent.com/rebeccasc-kitsaptransit/kt-public-data/main/data/bay/btc_bay.json
+
 
 ## Fields
 | Field | Description |
