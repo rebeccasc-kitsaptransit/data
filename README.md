@@ -14,8 +14,7 @@ data/
 ## Usage
 Files are available for direct ingestion via raw GitHub URL, for example:
 ```
-https://raw.githubusercontent.com/rebeccasc-kitsaptransit/kt-public-data/main/data/bay/btc_bay.json
-
+https://raw.githubusercontent.com/rebeccasc-kitsaptransit/data/main/bay/kt_trips_bay_n509.json
 
 ```
 
