@@ -4,6 +4,7 @@
 
 Bay assignment for bus pickups
   (3/25/26 - currently limited to Bremerton Transit Center (BTC)
+ 
   (stop_id = 1)
 
 ## Source
