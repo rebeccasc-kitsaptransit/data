@@ -33,10 +33,16 @@ https://raw.githubusercontent.com/rebeccasc-kitsaptransit/data/main/bay/kt_trips
 | `start_date` | First date this schedule is valid |
 | `end_date` | Last date this schedule is valid |
 
-## Notes
-- Records currently scoped to BTC (stop_id `1`) only
+## Usage Notes
 - Times are in `HH:MM:SS` format
 - Dates are in `YYYY-MM-DD` format
+- This file should be joined on two fields: `trip_id` and `end_date` (or `start_date`)
+  - `trip_id` is unique to this feed for the corresponding GTFS calendar period
+  - Times are in `HH:MM:SS` format
+  - Dates are in `YYYY-MM-DD` format
+- Records currently scoped to BTC (stop_id `1`) only
+
+## Addtl Considerations
   - xxx70 serviceID = 4   -- saturday service
   - xxx80 serviceID = 1  -- sat / sunday service
 - Where a single bay assignment is not available due to timing constraints, a range of 7-9 is assigned,
