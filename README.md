@@ -2,7 +2,7 @@
 
 # Kitsap Transit – Public Data
 
-Publicly shared data from Kitsap Transit (KT) for use by third parties, developers, and transit information systems.
+Publicly shared data from Kitsap Transit (KT) for use by third parties.
 
 ## Folder Structure
 ```
@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/rebeccasc-kitsaptransit/kt-public-data/main/da
 ```
 
 ## Data Format
-Files are published in  JSON format.
+Files are published in JSON format.
 
 ## Updates
 Data is updated with Kitsap Transit seasonal changes and are valid between Start_Date and End_Date
