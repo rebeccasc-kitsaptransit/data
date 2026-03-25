@@ -17,7 +17,7 @@ Kitsap Transit GTFS data feed cross referenced against planner run card assignme
 
 ## File
 `btc_bay.json` — 509 records in JSON format and available at:  
-> https://raw.githubusercontent.com/rebeccasc-kitsaptransit/data/main/bay/kt_trips_bay_n509.json
+> `https://raw.githubusercontent.com/rebeccasc-kitsaptransit/data/main/bay/kt_trips_bay_n509.json`
 
 
 ## Fields
