@@ -7,7 +7,7 @@ Bay assignment for bus pickups
   *(stop_id = 1)*
 
 ## Source
-Kitsap Transit GTFS data feed cross referenced against planner run card assignments 
+Kitsap Transit GTFS data feed cross-referenced against planner run card assignments 
   
 
 ## Service Period
