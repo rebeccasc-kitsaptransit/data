@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/rebeccasc-kitsaptransit/data/main/bay/kt_trips
 | `block_id` | The block identifier for the vehicle assignment |
 | `trip_id` | Unique trip identifier |
 | `service_id` | Service pattern identifier (e.g. weekday, Saturday, Sunday) |
-| `stop_id` | Stop identifier — all records in this file are stop `2` (BTC) |
+| `stop_id` | Stop identifier — all records in this file are stop `1` (BTC) |
 | `arrival_time` | Scheduled arrival time at BTC |
 | `departure_time` | Scheduled departure time from BTC |
 | `route_id` | Route identifier |
