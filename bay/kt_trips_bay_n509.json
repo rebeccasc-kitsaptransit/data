@@ -1,7 +1,8 @@
-﻿[
+[
   {
     "block_id": "A10",
     "trip_id": 1855020,
+    "bay": "7-9",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "06:50:00",
@@ -13,6 +14,7 @@
   {
     "block_id": "A18",
     "trip_id": 1968020,
+    "bay": "12",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "06:24:00",
@@ -24,6 +26,7 @@
   {
     "block_id": "A18",
     "trip_id": 2535020,
+    "bay": "12",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "07:20:00",
@@ -35,6 +38,7 @@
   {
     "block_id": "A19",
     "trip_id": 659020,
+    "bay": "12",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "06:40:00",
@@ -46,6 +50,7 @@
   {
     "block_id": "A19",
     "trip_id": 738020,
+    "bay": "12",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "06:00:00",
@@ -57,6 +62,7 @@
   {
     "block_id": "A2",
     "trip_id": 1882020,
+    "bay": "7-9",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "06:50:00",
@@ -68,6 +74,7 @@
   {
     "block_id": "CPB",
     "trip_id": 587020,
+    "bay": "13",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "06:42:00",
@@ -79,6 +86,7 @@
   {
     "block_id": "ES1",
     "trip_id": 188020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "06:00:00",
@@ -90,6 +98,7 @@
   {
     "block_id": "ES1",
     "trip_id": 858020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "10:00:00",
@@ -101,6 +110,7 @@
   {
     "block_id": "ES1",
     "trip_id": 1442020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "18:05:00",
@@ -112,6 +122,7 @@
   {
     "block_id": "ES1",
     "trip_id": 1538020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:05:00",
@@ -123,6 +134,7 @@
   {
     "block_id": "ES1",
     "trip_id": 1623020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "08:00:00",
@@ -134,6 +146,7 @@
   {
     "block_id": "ES1",
     "trip_id": 2243020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "12:00:00",
@@ -145,6 +158,7 @@
   {
     "block_id": "ES1",
     "trip_id": 2484020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "14:00:00",
@@ -156,6 +170,7 @@
   {
     "block_id": "ES1",
     "trip_id": 2623020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "19:45:00",
@@ -167,6 +182,7 @@
   {
     "block_id": "ES1H",
     "trip_id": 204090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "10:00:00",
@@ -178,6 +194,7 @@
   {
     "block_id": "ES1H",
     "trip_id": 223090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "14:00:00",
@@ -189,6 +206,7 @@
   {
     "block_id": "ES1H",
     "trip_id": 287090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "12:00:00",
@@ -200,6 +218,7 @@
   {
     "block_id": "ES1H",
     "trip_id": 866090,
+    "bay": "13",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "18:35:00",
@@ -211,6 +230,7 @@
   {
     "block_id": "ES1H",
     "trip_id": 1487090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "16:00:00",
@@ -222,6 +242,7 @@
   {
     "block_id": "ES1H",
     "trip_id": 1812090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "08:00:00",
@@ -233,6 +254,7 @@
   {
     "block_id": "ES1SA",
     "trip_id": 578070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "14:00:00",
@@ -244,6 +266,7 @@
   {
     "block_id": "ES1SA",
     "trip_id": 578080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "14:00:00",
@@ -255,6 +278,7 @@
   {
     "block_id": "ES1SA",
     "trip_id": 780070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "12:00:00",
@@ -266,6 +290,7 @@
   {
     "block_id": "ES1SA",
     "trip_id": 780080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "12:00:00",
@@ -277,6 +302,7 @@
   {
     "block_id": "ES1SA",
     "trip_id": 1032070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "16:00:00",
@@ -288,6 +314,7 @@
   {
     "block_id": "ES1SA",
     "trip_id": 1032080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "16:00:00",
@@ -299,6 +326,7 @@
   {
     "block_id": "ES2",
     "trip_id": 29020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "13:00:00",
@@ -310,6 +338,7 @@
   {
     "block_id": "ES2",
     "trip_id": 205020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "19:05:00",
@@ -321,6 +350,7 @@
   {
     "block_id": "ES2",
     "trip_id": 657020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "20:00:00",
@@ -332,6 +362,7 @@
   {
     "block_id": "ES2",
     "trip_id": 672020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "15:05:00",
@@ -343,6 +374,7 @@
   {
     "block_id": "ES2",
     "trip_id": 809020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "07:00:00",
@@ -354,6 +386,7 @@
   {
     "block_id": "ES2",
     "trip_id": 1449020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:05:00",
@@ -365,6 +398,7 @@
   {
     "block_id": "ES2",
     "trip_id": 1706020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "11:00:00",
@@ -376,6 +410,7 @@
   {
     "block_id": "ES2",
     "trip_id": 2403020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "09:00:00",
@@ -387,6 +422,7 @@
   {
     "block_id": "ES2H",
     "trip_id": 446090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "11:00:00",
@@ -398,6 +434,7 @@
   {
     "block_id": "ES2H",
     "trip_id": 720090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "15:00:00",
@@ -409,6 +446,7 @@
   {
     "block_id": "ES2H",
     "trip_id": 1527090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "13:00:00",
@@ -420,6 +458,7 @@
   {
     "block_id": "ES2H",
     "trip_id": 2075090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "09:00:00",
@@ -431,6 +470,7 @@
   {
     "block_id": "ES2H",
     "trip_id": 2482090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "17:05:00",
@@ -442,6 +482,7 @@
   {
     "block_id": "ES2SA",
     "trip_id": 111070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "15:00:00",
@@ -453,6 +494,7 @@
   {
     "block_id": "ES2SA",
     "trip_id": 111080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "15:00:00",
@@ -464,6 +506,7 @@
   {
     "block_id": "ES2SA",
     "trip_id": 416070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "10:00:00",
@@ -475,6 +518,7 @@
   {
     "block_id": "ES2SA",
     "trip_id": 416080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "10:00:00",
@@ -486,6 +530,7 @@
   {
     "block_id": "ES2SA",
     "trip_id": 502070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "11:00:00",
@@ -497,6 +542,7 @@
   {
     "block_id": "ES2SA",
     "trip_id": 502080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "11:00:00",
@@ -508,6 +554,7 @@
   {
     "block_id": "ES2SA",
     "trip_id": 1250070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "17:00:00",
@@ -519,6 +566,7 @@
   {
     "block_id": "ES2SA",
     "trip_id": 1250080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "17:00:00",
@@ -530,6 +578,7 @@
   {
     "block_id": "ES2SA",
     "trip_id": 1537070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "13:00:00",
@@ -541,6 +590,7 @@
   {
     "block_id": "ES2SA",
     "trip_id": 1537080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "13:00:00",
@@ -552,6 +602,7 @@
   {
     "block_id": "EW1",
     "trip_id": 135020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "11:00:00",
@@ -563,6 +614,7 @@
   {
     "block_id": "EW1",
     "trip_id": 219020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:05:00",
@@ -574,6 +626,7 @@
   {
     "block_id": "EW1",
     "trip_id": 699020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "12:00:00",
@@ -585,6 +638,7 @@
   {
     "block_id": "EW1",
     "trip_id": 1173020,
+    "bay": "8",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:05:00",
@@ -596,6 +650,7 @@
   {
     "block_id": "EW1",
     "trip_id": 1220020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "19:05:00",
@@ -607,6 +662,7 @@
   {
     "block_id": "EW1",
     "trip_id": 1622020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "06:00:00",
@@ -618,6 +674,7 @@
   {
     "block_id": "EW1",
     "trip_id": 1667020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "06:55:00",
@@ -629,6 +686,7 @@
   {
     "block_id": "EW1",
     "trip_id": 1691020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "14:00:00",
@@ -640,6 +698,7 @@
   {
     "block_id": "EW1",
     "trip_id": 1875020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "10:00:00",
@@ -651,6 +710,7 @@
   {
     "block_id": "EW1",
     "trip_id": 2099020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "09:00:00",
@@ -662,6 +722,7 @@
   {
     "block_id": "EW1",
     "trip_id": 2336020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "08:00:00",
@@ -673,6 +734,7 @@
   {
     "block_id": "EW1",
     "trip_id": 2420020,
+    "bay": "7",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "13:00:00",
@@ -684,6 +746,7 @@
   {
     "block_id": "EW1",
     "trip_id": 2538020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "18:05:00",
@@ -695,6 +758,7 @@
   {
     "block_id": "EW1",
     "trip_id": 2576020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "15:05:00",
@@ -706,6 +770,7 @@
   {
     "block_id": "EW1H",
     "trip_id": 61090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "16:00:00",
@@ -717,6 +782,7 @@
   {
     "block_id": "EW1H",
     "trip_id": 264090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "09:00:00",
@@ -728,6 +794,7 @@
   {
     "block_id": "EW1H",
     "trip_id": 604090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "10:00:00",
@@ -739,6 +806,7 @@
   {
     "block_id": "EW1H",
     "trip_id": 777090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "14:00:00",
@@ -750,6 +818,7 @@
   {
     "block_id": "EW1H",
     "trip_id": 817090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "12:00:00",
@@ -761,6 +830,7 @@
   {
     "block_id": "EW1H",
     "trip_id": 1238090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "11:00:00",
@@ -772,6 +842,7 @@
   {
     "block_id": "EW1H",
     "trip_id": 1467090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "08:00:00",
@@ -783,6 +854,7 @@
   {
     "block_id": "EW1H",
     "trip_id": 1602090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "18:05:00",
@@ -794,6 +866,7 @@
   {
     "block_id": "EW1H",
     "trip_id": 1648090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "17:05:00",
@@ -805,6 +878,7 @@
   {
     "block_id": "EW1H",
     "trip_id": 2085090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "13:00:00",
@@ -816,6 +890,7 @@
   {
     "block_id": "EW1H",
     "trip_id": 2412090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "15:00:00",
@@ -827,6 +902,7 @@
   {
     "block_id": "EW1SA",
     "trip_id": 10070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "16:00:00",
@@ -838,6 +914,7 @@
   {
     "block_id": "EW1SA",
     "trip_id": 10080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "16:00:00",
@@ -849,6 +926,7 @@
   {
     "block_id": "EW1SA",
     "trip_id": 88070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "14:00:00",
@@ -860,6 +938,7 @@
   {
     "block_id": "EW1SA",
     "trip_id": 88080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "14:00:00",
@@ -871,6 +950,7 @@
   {
     "block_id": "EW1SA",
     "trip_id": 290070,
+    "bay": "4",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "17:00:00",
@@ -882,6 +962,7 @@
   {
     "block_id": "EW1SA",
     "trip_id": 290080,
+    "bay": "4",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "17:00:00",
@@ -893,6 +974,7 @@
   {
     "block_id": "EW1SA",
     "trip_id": 835070,
+    "bay": "4",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "13:00:00",
@@ -904,6 +986,7 @@
   {
     "block_id": "EW1SA",
     "trip_id": 835080,
+    "bay": "4",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "13:00:00",
@@ -915,6 +998,7 @@
   {
     "block_id": "EW1SA",
     "trip_id": 1277070,
+    "bay": "4",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "11:00:00",
@@ -926,6 +1010,7 @@
   {
     "block_id": "EW1SA",
     "trip_id": 1277080,
+    "bay": "4",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "11:00:00",
@@ -937,6 +1022,7 @@
   {
     "block_id": "EW1SA",
     "trip_id": 1756070,
+    "bay": "4",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "15:00:00",
@@ -948,6 +1034,7 @@
   {
     "block_id": "EW1SA",
     "trip_id": 1756080,
+    "bay": "4",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "15:00:00",
@@ -959,6 +1046,7 @@
   {
     "block_id": "EW1SA",
     "trip_id": 2073070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "12:00:00",
@@ -970,6 +1058,7 @@
   {
     "block_id": "EW1SA",
     "trip_id": 2073080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "12:00:00",
@@ -981,6 +1070,7 @@
   {
     "block_id": "EW2",
     "trip_id": 117020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "13:00:00",
@@ -992,6 +1082,7 @@
   {
     "block_id": "EW2",
     "trip_id": 127020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "12:00:00",
@@ -1003,6 +1094,7 @@
   {
     "block_id": "EW2",
     "trip_id": 183020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "20:00:00",
@@ -1014,6 +1106,7 @@
   {
     "block_id": "EW2",
     "trip_id": 184020,
+    "bay": "7",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:05:00",
@@ -1025,6 +1118,7 @@
   {
     "block_id": "EW2",
     "trip_id": 293020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "07:00:00",
@@ -1036,6 +1130,7 @@
   {
     "block_id": "EW2",
     "trip_id": 473020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "10:00:00",
@@ -1047,6 +1142,7 @@
   {
     "block_id": "EW2",
     "trip_id": 1002020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "09:00:00",
@@ -1058,6 +1154,7 @@
   {
     "block_id": "EW2",
     "trip_id": 1129020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "11:00:00",
@@ -1069,6 +1166,7 @@
   {
     "block_id": "EW2",
     "trip_id": 1553020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "18:05:00",
@@ -1080,6 +1178,7 @@
   {
     "block_id": "EW2",
     "trip_id": 1664020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "19:05:00",
@@ -1091,6 +1190,7 @@
   {
     "block_id": "EW2",
     "trip_id": 2133020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:05:00",
@@ -1102,6 +1202,7 @@
   {
     "block_id": "EW2",
     "trip_id": 2389020,
+    "bay": "7",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "14:00:00",
@@ -1113,6 +1214,7 @@
   {
     "block_id": "EW2",
     "trip_id": 2568020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "08:00:00",
@@ -1124,6 +1226,7 @@
   {
     "block_id": "EW2",
     "trip_id": 2580020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "15:05:00",
@@ -1135,6 +1238,7 @@
   {
     "block_id": "EW2H",
     "trip_id": 116090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "08:00:00",
@@ -1146,6 +1250,7 @@
   {
     "block_id": "EW2H",
     "trip_id": 139090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "14:00:00",
@@ -1157,6 +1262,7 @@
   {
     "block_id": "EW2H",
     "trip_id": 453090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "17:05:00",
@@ -1168,6 +1274,7 @@
   {
     "block_id": "EW2H",
     "trip_id": 528090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "12:00:00",
@@ -1179,6 +1286,7 @@
   {
     "block_id": "EW2H",
     "trip_id": 583090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "09:00:00",
@@ -1190,6 +1298,7 @@
   {
     "block_id": "EW2H",
     "trip_id": 1330090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "16:00:00",
@@ -1201,6 +1310,7 @@
   {
     "block_id": "EW2H",
     "trip_id": 1558090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "11:00:00",
@@ -1212,6 +1322,7 @@
   {
     "block_id": "EW2H",
     "trip_id": 1966090,
+    "bay": "8",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "18:35:00",
@@ -1223,6 +1334,7 @@
   {
     "block_id": "EW2H",
     "trip_id": 2035090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "15:00:00",
@@ -1234,6 +1346,7 @@
   {
     "block_id": "EW2H",
     "trip_id": 2326090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "10:00:00",
@@ -1245,6 +1358,7 @@
   {
     "block_id": "EW2H",
     "trip_id": 2448090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "13:00:00",
@@ -1256,6 +1370,7 @@
   {
     "block_id": "EW2SA",
     "trip_id": 316070,
+    "bay": "4",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "10:00:00",
@@ -1267,6 +1382,7 @@
   {
     "block_id": "EW2SA",
     "trip_id": 316080,
+    "bay": "4",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "10:00:00",
@@ -1278,6 +1394,7 @@
   {
     "block_id": "EW2SA",
     "trip_id": 497070,
+    "bay": "4",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "14:00:00",
@@ -1289,6 +1406,7 @@
   {
     "block_id": "EW2SA",
     "trip_id": 497080,
+    "bay": "4",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "14:00:00",
@@ -1300,6 +1418,7 @@
   {
     "block_id": "EW2SA",
     "trip_id": 565070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "11:00:00",
@@ -1311,6 +1430,7 @@
   {
     "block_id": "EW2SA",
     "trip_id": 565080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "11:00:00",
@@ -1322,6 +1442,7 @@
   {
     "block_id": "EW2SA",
     "trip_id": 971070,
+    "bay": "4",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "16:00:00",
@@ -1333,6 +1454,7 @@
   {
     "block_id": "EW2SA",
     "trip_id": 971080,
+    "bay": "4",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "16:00:00",
@@ -1344,6 +1466,7 @@
   {
     "block_id": "EW2SA",
     "trip_id": 1417070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "17:00:00",
@@ -1355,6 +1478,7 @@
   {
     "block_id": "EW2SA",
     "trip_id": 1417080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "17:00:00",
@@ -1366,6 +1490,7 @@
   {
     "block_id": "EW2SA",
     "trip_id": 1418070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "15:00:00",
@@ -1377,6 +1502,7 @@
   {
     "block_id": "EW2SA",
     "trip_id": 1418080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "15:00:00",
@@ -1388,6 +1514,7 @@
   {
     "block_id": "EW2SA",
     "trip_id": 1988070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "13:00:00",
@@ -1399,6 +1526,7 @@
   {
     "block_id": "EW2SA",
     "trip_id": 1988080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "13:00:00",
@@ -1410,6 +1538,7 @@
   {
     "block_id": "EW2SA",
     "trip_id": 2045070,
+    "bay": "4",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "12:00:00",
@@ -1421,6 +1550,7 @@
   {
     "block_id": "EW2SA",
     "trip_id": 2045080,
+    "bay": "4",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "12:00:00",
@@ -1432,6 +1562,7 @@
   {
     "block_id": "EW3",
     "trip_id": 78020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "14:00:00",
@@ -1443,6 +1574,7 @@
   {
     "block_id": "EW3",
     "trip_id": 585020,
+    "bay": "7",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "19:05:00",
@@ -1454,6 +1586,7 @@
   {
     "block_id": "EW3",
     "trip_id": 811020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:05:00",
@@ -1465,6 +1598,7 @@
   {
     "block_id": "EW3",
     "trip_id": 1153020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:05:00",
@@ -1476,6 +1610,7 @@
   {
     "block_id": "EW3",
     "trip_id": 1929020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "13:00:00",
@@ -1487,6 +1622,7 @@
   {
     "block_id": "EW3",
     "trip_id": 2056020,
+    "bay": "7",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "18:05:00",
@@ -1498,6 +1634,7 @@
   {
     "block_id": "EW3",
     "trip_id": 2554020,
+    "bay": "7",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "15:05:00",
@@ -1509,6 +1646,7 @@
   {
     "block_id": "NB1",
     "trip_id": 75020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "05:15:00",
@@ -1520,6 +1658,7 @@
   {
     "block_id": "NB1",
     "trip_id": 704020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "06:45:00",
@@ -1531,6 +1670,7 @@
   {
     "block_id": "NB1",
     "trip_id": 965020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "19:15:00",
@@ -1542,6 +1682,7 @@
   {
     "block_id": "NB1",
     "trip_id": 988020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:45:00",
@@ -1553,6 +1694,7 @@
   {
     "block_id": "NB1",
     "trip_id": 1128020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "14:15:00",
@@ -1564,6 +1706,7 @@
   {
     "block_id": "NB1",
     "trip_id": 1605020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "09:15:00",
@@ -1575,6 +1718,7 @@
   {
     "block_id": "NB1",
     "trip_id": 1856020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "11:45:00",
@@ -1586,6 +1730,7 @@
   {
     "block_id": "NB1H",
     "trip_id": 1544090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "16:15:00",
@@ -1597,6 +1742,7 @@
   {
     "block_id": "NB1H",
     "trip_id": 1586090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "13:45:00",
@@ -1608,6 +1754,7 @@
   {
     "block_id": "NB1H",
     "trip_id": 1677090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "11:15:00",
@@ -1619,6 +1766,7 @@
   {
     "block_id": "NB1H",
     "trip_id": 2207090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "08:45:00",
@@ -1630,6 +1778,7 @@
   {
     "block_id": "NB1SA",
     "trip_id": 997070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "14:45:00",
@@ -1641,6 +1790,7 @@
   {
     "block_id": "NB1SA",
     "trip_id": 997080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "14:45:00",
@@ -1652,6 +1802,7 @@
   {
     "block_id": "NB1SA",
     "trip_id": 1336070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "12:15:00",
@@ -1663,6 +1814,7 @@
   {
     "block_id": "NB1SA",
     "trip_id": 1336080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "12:15:00",
@@ -1674,6 +1826,7 @@
   {
     "block_id": "NB1SA",
     "trip_id": 2440070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "09:45:00",
@@ -1685,6 +1838,7 @@
   {
     "block_id": "NB1SA",
     "trip_id": 2440080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "09:45:00",
@@ -1696,6 +1850,7 @@
   {
     "block_id": "NB2",
     "trip_id": 444020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "11:15:00",
@@ -1707,6 +1862,7 @@
   {
     "block_id": "NB2",
     "trip_id": 693020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:15:00",
@@ -1718,6 +1874,7 @@
   {
     "block_id": "NB2",
     "trip_id": 1240020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "08:45:00",
@@ -1729,6 +1886,7 @@
   {
     "block_id": "NB2",
     "trip_id": 1611020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "13:45:00",
@@ -1740,6 +1898,7 @@
   {
     "block_id": "NB2",
     "trip_id": 2591020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "18:45:00",
@@ -1751,6 +1910,7 @@
   {
     "block_id": "NB2H",
     "trip_id": 232090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "09:15:00",
@@ -1762,6 +1922,7 @@
   {
     "block_id": "NB2H",
     "trip_id": 2089090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "14:15:00",
@@ -1773,6 +1934,7 @@
   {
     "block_id": "NB2H",
     "trip_id": 2352090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "11:45:00",
@@ -1784,6 +1946,7 @@
   {
     "block_id": "NB2SA",
     "trip_id": 399070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "14:15:00",
@@ -1795,6 +1958,7 @@
   {
     "block_id": "NB2SA",
     "trip_id": 399080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "14:15:00",
@@ -1806,6 +1970,7 @@
   {
     "block_id": "NB2SA",
     "trip_id": 572070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "11:45:00",
@@ -1817,6 +1982,7 @@
   {
     "block_id": "NB2SA",
     "trip_id": 572080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "11:45:00",
@@ -1828,6 +1994,7 @@
   {
     "block_id": "NB2SA",
     "trip_id": 712070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "09:15:00",
@@ -1839,6 +2006,7 @@
   {
     "block_id": "NB2SA",
     "trip_id": 712080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "09:15:00",
@@ -1850,6 +2018,7 @@
   {
     "block_id": "NB3",
     "trip_id": 1524020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "12:15:00",
@@ -1861,6 +2030,7 @@
   {
     "block_id": "NB3",
     "trip_id": 2060020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "07:15:00",
@@ -1872,6 +2042,7 @@
   {
     "block_id": "NB3",
     "trip_id": 2219020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "09:45:00",
@@ -1883,6 +2054,7 @@
   {
     "block_id": "NB3H",
     "trip_id": 747090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "09:45:00",
@@ -1894,6 +2066,7 @@
   {
     "block_id": "NB3H",
     "trip_id": 1068090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "12:15:00",
@@ -1905,6 +2078,7 @@
   {
     "block_id": "NB3SA",
     "trip_id": 1939070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "16:45:00",
@@ -1916,6 +2090,7 @@
   {
     "block_id": "NB3SA",
     "trip_id": 1939080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "16:45:00",
@@ -1927,6 +2102,7 @@
   {
     "block_id": "NB4",
     "trip_id": 677020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "14:45:00",
@@ -1938,6 +2114,7 @@
   {
     "block_id": "NB4",
     "trip_id": 1376020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:15:00",
@@ -1949,6 +2126,7 @@
   {
     "block_id": "NB4H",
     "trip_id": 1292090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "17:15:00",
@@ -1960,6 +2138,7 @@
   {
     "block_id": "NB4H",
     "trip_id": 1517090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "14:45:00",
@@ -1971,6 +2150,7 @@
   {
     "block_id": "NB4H",
     "trip_id": 2021090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "18:45:00",
@@ -1982,6 +2162,7 @@
   {
     "block_id": "NB4SA",
     "trip_id": 1394070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "17:15:00",
@@ -1993,6 +2174,7 @@
   {
     "block_id": "NB4SA",
     "trip_id": 1394080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "17:15:00",
@@ -2004,6 +2186,7 @@
   {
     "block_id": "NK1",
     "trip_id": 766020,
+    "bay": "13",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "09:17:00",
@@ -2015,6 +2198,7 @@
   {
     "block_id": "NK2",
     "trip_id": 1454020,
+    "bay": "13",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:25:00",
@@ -2026,6 +2210,7 @@
   {
     "block_id": "NK3",
     "trip_id": 576020,
+    "bay": "13",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:45:00",
@@ -2037,6 +2222,7 @@
   {
     "block_id": "NK3",
     "trip_id": 1105020,
+    "bay": "13",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "15:05:00",
@@ -2048,6 +2234,7 @@
   {
     "block_id": "P1",
     "trip_id": 1199020,
+    "bay": "14",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:05:00",
@@ -2059,6 +2246,7 @@
   {
     "block_id": "P12",
     "trip_id": 306020,
+    "bay": "11",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:05:00",
@@ -2070,6 +2258,7 @@
   {
     "block_id": "P12",
     "trip_id": 324020,
+    "bay": "11",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "15:05:00",
@@ -2081,6 +2270,7 @@
   {
     "block_id": "P12",
     "trip_id": 981020,
+    "bay": "11",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:05:00",
@@ -2092,6 +2282,7 @@
   {
     "block_id": "P17",
     "trip_id": 1573020,
+    "bay": "14",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "15:05:00",
@@ -2103,6 +2294,7 @@
   {
     "block_id": "P18",
     "trip_id": 491020,
+    "bay": "12",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "15:05:00",
@@ -2114,6 +2306,7 @@
   {
     "block_id": "P18",
     "trip_id": 589020,
+    "bay": "12",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:05:00",
@@ -2125,6 +2318,7 @@
   {
     "block_id": "P18",
     "trip_id": 1302020,
+    "bay": "12",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:05:00",
@@ -2136,6 +2330,7 @@
   {
     "block_id": "P18",
     "trip_id": 2210020,
+    "bay": "12",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "18:35:00",
@@ -2147,6 +2342,7 @@
   {
     "block_id": "P18",
     "trip_id": 2413020,
+    "bay": "12",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:45:00",
@@ -2158,6 +2354,7 @@
   {
     "block_id": "P19",
     "trip_id": 1082020,
+    "bay": "12",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:30:00",
@@ -2169,6 +2366,7 @@
   {
     "block_id": "P19",
     "trip_id": 1165020,
+    "bay": "12",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "18:20:00",
@@ -2180,6 +2378,7 @@
   {
     "block_id": "P19",
     "trip_id": 2455020,
+    "bay": "12",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:25:00",
@@ -2191,6 +2390,7 @@
   {
     "block_id": "P5",
     "trip_id": 1146020,
+    "bay": "13",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:05:00",
@@ -2202,6 +2402,7 @@
   {
     "block_id": "P6",
     "trip_id": 1177020,
+    "bay": "14",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:45:00",
@@ -2213,6 +2414,7 @@
   {
     "block_id": "P6",
     "trip_id": 1267020,
+    "bay": "14",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:05:00",
@@ -2224,6 +2426,7 @@
   {
     "block_id": "P6",
     "trip_id": 2496020,
+    "bay": "14",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "18:20:00",
@@ -2235,6 +2438,7 @@
   {
     "block_id": "P8",
     "trip_id": 552020,
+    "bay": "7",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "18:35:00",
@@ -2246,6 +2450,7 @@
   {
     "block_id": "P8",
     "trip_id": 1574020,
+    "bay": "7",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:20:00",
@@ -2257,6 +2462,7 @@
   {
     "block_id": "P8",
     "trip_id": 1637020,
+    "bay": "7",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:40:00",
@@ -2268,6 +2474,7 @@
   {
     "block_id": "P8",
     "trip_id": 1967020,
+    "bay": "7",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:05:00",
@@ -2279,6 +2486,7 @@
   {
     "block_id": "P8",
     "trip_id": 2355020,
+    "bay": "7",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:55:00",
@@ -2290,6 +2498,7 @@
   {
     "block_id": "P8",
     "trip_id": 2524020,
+    "bay": "7",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "15:20:00",
@@ -2301,6 +2510,7 @@
   {
     "block_id": "PB3",
     "trip_id": 1780020,
+    "bay": "13",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "08:00:00",
@@ -2312,6 +2522,7 @@
   {
     "block_id": "PB4",
     "trip_id": 923020,
+    "bay": "13",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "19:05:00",
@@ -2323,6 +2534,7 @@
   {
     "block_id": "PB4H",
     "trip_id": 888090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "16:45:00",
@@ -2334,6 +2546,7 @@
   {
     "block_id": "SB1",
     "trip_id": 124020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "20:20:00",
@@ -2345,6 +2558,7 @@
   {
     "block_id": "SB1",
     "trip_id": 383020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:15:00",
@@ -2356,6 +2570,7 @@
   {
     "block_id": "SB1",
     "trip_id": 562020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "12:45:00",
@@ -2367,6 +2582,7 @@
   {
     "block_id": "SB1",
     "trip_id": 1033020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "05:15:00",
@@ -2378,6 +2594,7 @@
   {
     "block_id": "SB1",
     "trip_id": 1281020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "18:45:00",
@@ -2389,6 +2606,7 @@
   {
     "block_id": "SB1",
     "trip_id": 1687020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "06:45:00",
@@ -2400,6 +2618,7 @@
   {
     "block_id": "SB1",
     "trip_id": 2034020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "15:45:00",
@@ -2411,6 +2630,7 @@
   {
     "block_id": "SB1",
     "trip_id": 2095020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "08:15:00",
@@ -2422,6 +2642,7 @@
   {
     "block_id": "SB1",
     "trip_id": 2424020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "09:45:00",
@@ -2433,6 +2654,7 @@
   {
     "block_id": "SB1",
     "trip_id": 2549020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "11:15:00",
@@ -2444,6 +2666,7 @@
   {
     "block_id": "SB1",
     "trip_id": 2603020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "14:15:00",
@@ -2455,6 +2678,7 @@
   {
     "block_id": "SB1H",
     "trip_id": 362090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "12:45:00",
@@ -2466,6 +2690,7 @@
   {
     "block_id": "SB1H",
     "trip_id": 451090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "15:45:00",
@@ -2477,6 +2702,7 @@
   {
     "block_id": "SB1H",
     "trip_id": 919090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "09:45:00",
@@ -2488,6 +2714,7 @@
   {
     "block_id": "SB1H",
     "trip_id": 1431090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "11:15:00",
@@ -2499,6 +2726,7 @@
   {
     "block_id": "SB1H",
     "trip_id": 1675090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "08:15:00",
@@ -2510,6 +2738,7 @@
   {
     "block_id": "SB1H",
     "trip_id": 2068090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "14:15:00",
@@ -2521,6 +2750,7 @@
   {
     "block_id": "SB1H",
     "trip_id": 2436090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "18:45:00",
@@ -2532,6 +2762,7 @@
   {
     "block_id": "SB1H",
     "trip_id": 2499090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "17:15:00",
@@ -2543,6 +2774,7 @@
   {
     "block_id": "SB1SA",
     "trip_id": 1070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "17:15:00",
@@ -2554,6 +2786,7 @@
   {
     "block_id": "SB1SA",
     "trip_id": 1080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "17:15:00",
@@ -2565,6 +2798,7 @@
   {
     "block_id": "SB1SA",
     "trip_id": 62070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "08:15:00",
@@ -2576,6 +2810,7 @@
   {
     "block_id": "SB1SA",
     "trip_id": 62080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "08:15:00",
@@ -2587,6 +2822,7 @@
   {
     "block_id": "SB1SA",
     "trip_id": 130070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "11:15:00",
@@ -2598,6 +2834,7 @@
   {
     "block_id": "SB1SA",
     "trip_id": 130080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "11:15:00",
@@ -2609,6 +2846,7 @@
   {
     "block_id": "SB1SA",
     "trip_id": 883070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "09:45:00",
@@ -2620,6 +2858,7 @@
   {
     "block_id": "SB1SA",
     "trip_id": 883080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "09:45:00",
@@ -2631,6 +2870,7 @@
   {
     "block_id": "SB1SA",
     "trip_id": 945070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "14:15:00",
@@ -2642,6 +2882,7 @@
   {
     "block_id": "SB1SA",
     "trip_id": 945080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "14:15:00",
@@ -2653,6 +2894,7 @@
   {
     "block_id": "SB1SA",
     "trip_id": 2217070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "12:45:00",
@@ -2664,6 +2906,7 @@
   {
     "block_id": "SB1SA",
     "trip_id": 2217080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "12:45:00",
@@ -2675,6 +2918,7 @@
   {
     "block_id": "SB1SA",
     "trip_id": 2409070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "15:45:00",
@@ -2686,6 +2930,7 @@
   {
     "block_id": "SB1SA",
     "trip_id": 2409080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "15:45:00",
@@ -2697,6 +2942,7 @@
   {
     "block_id": "SB1SU",
     "trip_id": 434010,
+    "bay": "6",
     "service_id": "2",
     "stop_id": "1",
     "arrival_time": "15:15:00",
@@ -2708,6 +2954,7 @@
   {
     "block_id": "SB1SU",
     "trip_id": 466010,
+    "bay": "6",
     "service_id": "2",
     "stop_id": "1",
     "arrival_time": "13:45:00",
@@ -2719,6 +2966,7 @@
   {
     "block_id": "SB1SU",
     "trip_id": 1013010,
+    "bay": "6",
     "service_id": "2",
     "stop_id": "1",
     "arrival_time": "12:15:00",
@@ -2730,6 +2978,7 @@
   {
     "block_id": "SB1SU",
     "trip_id": 1917010,
+    "bay": "6",
     "service_id": "2",
     "stop_id": "1",
     "arrival_time": "10:45:00",
@@ -2741,6 +2990,7 @@
   {
     "block_id": "SB1SU",
     "trip_id": 2094010,
+    "bay": "6",
     "service_id": "2",
     "stop_id": "1",
     "arrival_time": "09:15:00",
@@ -2752,6 +3002,7 @@
   {
     "block_id": "SB2",
     "trip_id": 503020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "15:15:00",
@@ -2763,6 +3014,7 @@
   {
     "block_id": "SB2",
     "trip_id": 581020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:45:00",
@@ -2774,6 +3026,7 @@
   {
     "block_id": "SB2",
     "trip_id": 614020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "12:15:00",
@@ -2785,6 +3038,7 @@
   {
     "block_id": "SB2",
     "trip_id": 632020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "13:45:00",
@@ -2796,6 +3050,7 @@
   {
     "block_id": "SB2",
     "trip_id": 895020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "10:45:00",
@@ -2807,6 +3062,7 @@
   {
     "block_id": "SB2",
     "trip_id": 962020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "19:45:00",
@@ -2818,6 +3074,7 @@
   {
     "block_id": "SB2",
     "trip_id": 1364020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "09:15:00",
@@ -2829,6 +3086,7 @@
   {
     "block_id": "SB2",
     "trip_id": 1486020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "06:15:00",
@@ -2840,6 +3098,7 @@
   {
     "block_id": "SB2",
     "trip_id": 1610020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "18:15:00",
@@ -2851,6 +3110,7 @@
   {
     "block_id": "SB2",
     "trip_id": 2432020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "07:45:00",
@@ -2862,6 +3122,7 @@
   {
     "block_id": "SB2H",
     "trip_id": 149090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "12:45:00",
@@ -2873,6 +3134,7 @@
   {
     "block_id": "SB2H",
     "trip_id": 1063090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "10:15:00",
@@ -2884,6 +3146,7 @@
   {
     "block_id": "SB2H",
     "trip_id": 1249090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "07:45:00",
@@ -2895,6 +3158,7 @@
   {
     "block_id": "SB2H",
     "trip_id": 1568090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "15:15:00",
@@ -2906,6 +3170,7 @@
   {
     "block_id": "SB2H",
     "trip_id": 2502090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "17:45:00",
@@ -2917,6 +3182,7 @@
   {
     "block_id": "SB2SA",
     "trip_id": 236070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "17:45:00",
@@ -2928,6 +3194,7 @@
   {
     "block_id": "SB2SA",
     "trip_id": 236080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "17:45:00",
@@ -2939,6 +3206,7 @@
   {
     "block_id": "SB2SA",
     "trip_id": 1378070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "12:45:00",
@@ -2950,6 +3218,7 @@
   {
     "block_id": "SB2SA",
     "trip_id": 1378080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "12:45:00",
@@ -2961,6 +3230,7 @@
   {
     "block_id": "SB2SA",
     "trip_id": 1424070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "10:15:00",
@@ -2972,6 +3242,7 @@
   {
     "block_id": "SB2SA",
     "trip_id": 1424080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "10:15:00",
@@ -2983,6 +3254,7 @@
   {
     "block_id": "SB2SA",
     "trip_id": 2312070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "15:15:00",
@@ -2994,6 +3266,7 @@
   {
     "block_id": "SB2SA",
     "trip_id": 2312080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "15:15:00",
@@ -3005,6 +3278,7 @@
   {
     "block_id": "SB2SA",
     "trip_id": 2430070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "07:45:00",
@@ -3016,6 +3290,7 @@
   {
     "block_id": "SB2SA",
     "trip_id": 2430080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "07:45:00",
@@ -3027,6 +3302,7 @@
   {
     "block_id": "SB2SU",
     "trip_id": 727010,
+    "bay": "6",
     "service_id": "2",
     "stop_id": "1",
     "arrival_time": "08:15:00",
@@ -3038,6 +3314,7 @@
   {
     "block_id": "SB2SU",
     "trip_id": 1203010,
+    "bay": "6",
     "service_id": "2",
     "stop_id": "1",
     "arrival_time": "11:15:00",
@@ -3049,6 +3326,7 @@
   {
     "block_id": "SB2SU",
     "trip_id": 1408010,
+    "bay": "6",
     "service_id": "2",
     "stop_id": "1",
     "arrival_time": "14:15:00",
@@ -3060,6 +3338,7 @@
   {
     "block_id": "SB2SU",
     "trip_id": 1603010,
+    "bay": "6",
     "service_id": "2",
     "stop_id": "1",
     "arrival_time": "09:45:00",
@@ -3071,6 +3350,7 @@
   {
     "block_id": "SB2SU",
     "trip_id": 1606010,
+    "bay": "6",
     "service_id": "2",
     "stop_id": "1",
     "arrival_time": "15:55:00",
@@ -3082,6 +3362,7 @@
   {
     "block_id": "SB2SU",
     "trip_id": 1941010,
+    "bay": "6",
     "service_id": "2",
     "stop_id": "1",
     "arrival_time": "12:45:00",
@@ -3093,6 +3374,7 @@
   {
     "block_id": "SB3",
     "trip_id": 58020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:45:00",
@@ -3104,6 +3386,7 @@
   {
     "block_id": "SB3",
     "trip_id": 227020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "13:15:00",
@@ -3115,6 +3398,7 @@
   {
     "block_id": "SB3",
     "trip_id": 1504020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "19:15:00",
@@ -3126,6 +3410,7 @@
   {
     "block_id": "SB3",
     "trip_id": 1559020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:15:00",
@@ -3137,6 +3422,7 @@
   {
     "block_id": "SB3",
     "trip_id": 1703020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "21:00:00",
@@ -3148,6 +3434,7 @@
   {
     "block_id": "SB3",
     "trip_id": 1797020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "08:45:00",
@@ -3159,6 +3446,7 @@
   {
     "block_id": "SB3",
     "trip_id": 1816020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "07:15:00",
@@ -3170,6 +3458,7 @@
   {
     "block_id": "SB3",
     "trip_id": 1914020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "05:45:00",
@@ -3181,6 +3470,7 @@
   {
     "block_id": "SB3",
     "trip_id": 2030020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "11:45:00",
@@ -3192,6 +3482,7 @@
   {
     "block_id": "SB3",
     "trip_id": 2447020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "10:15:00",
@@ -3203,6 +3494,7 @@
   {
     "block_id": "SB3",
     "trip_id": 2586020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "14:45:00",
@@ -3214,6 +3506,7 @@
   {
     "block_id": "SB3H",
     "trip_id": 279090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "13:15:00",
@@ -3225,6 +3518,7 @@
   {
     "block_id": "SB3H",
     "trip_id": 332090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "17:45:00",
@@ -3236,6 +3530,7 @@
   {
     "block_id": "SB3H",
     "trip_id": 1171090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "16:15:00",
@@ -3247,6 +3542,7 @@
   {
     "block_id": "SB3H",
     "trip_id": 1255090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "10:15:00",
@@ -3258,6 +3554,7 @@
   {
     "block_id": "SB3H",
     "trip_id": 1945090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "08:45:00",
@@ -3269,6 +3566,7 @@
   {
     "block_id": "SB3H",
     "trip_id": 2249090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "11:45:00",
@@ -3280,6 +3578,7 @@
   {
     "block_id": "SB3H",
     "trip_id": 2421090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "14:45:00",
@@ -3291,6 +3590,7 @@
   {
     "block_id": "SB3SA",
     "trip_id": 178070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "14:45:00",
@@ -3302,6 +3602,7 @@
   {
     "block_id": "SB3SA",
     "trip_id": 178080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "14:45:00",
@@ -3313,6 +3614,7 @@
   {
     "block_id": "SB3SA",
     "trip_id": 403070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "13:15:00",
@@ -3324,6 +3626,7 @@
   {
     "block_id": "SB3SA",
     "trip_id": 403080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "13:15:00",
@@ -3335,6 +3638,7 @@
   {
     "block_id": "SB3SA",
     "trip_id": 864070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "16:15:00",
@@ -3346,6 +3650,7 @@
   {
     "block_id": "SB3SA",
     "trip_id": 864080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "16:15:00",
@@ -3357,6 +3662,7 @@
   {
     "block_id": "SB3SA",
     "trip_id": 1415070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "10:15:00",
@@ -3368,6 +3674,7 @@
   {
     "block_id": "SB3SA",
     "trip_id": 1415080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "10:15:00",
@@ -3379,6 +3686,7 @@
   {
     "block_id": "SB3SA",
     "trip_id": 1485070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "08:45:00",
@@ -3390,6 +3698,7 @@
   {
     "block_id": "SB3SA",
     "trip_id": 1485080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "08:45:00",
@@ -3401,6 +3710,7 @@
   {
     "block_id": "SB3SA",
     "trip_id": 1778070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "11:45:00",
@@ -3412,6 +3722,7 @@
   {
     "block_id": "SB3SA",
     "trip_id": 1778080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "11:45:00",
@@ -3423,6 +3734,7 @@
   {
     "block_id": "SB3SA",
     "trip_id": 1841070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "17:45:00",
@@ -3434,6 +3746,7 @@
   {
     "block_id": "SB3SA",
     "trip_id": 1841080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "17:45:00",
@@ -3445,6 +3758,7 @@
   {
     "block_id": "SB3SU",
     "trip_id": 200010,
+    "bay": "6",
     "service_id": "2",
     "stop_id": "1",
     "arrival_time": "13:15:00",
@@ -3456,6 +3770,7 @@
   {
     "block_id": "SB3SU",
     "trip_id": 1232010,
+    "bay": "6",
     "service_id": "2",
     "stop_id": "1",
     "arrival_time": "08:45:00",
@@ -3467,6 +3782,7 @@
   {
     "block_id": "SB3SU",
     "trip_id": 1649010,
+    "bay": "6",
     "service_id": "2",
     "stop_id": "1",
     "arrival_time": "11:45:00",
@@ -3478,6 +3794,7 @@
   {
     "block_id": "SB3SU",
     "trip_id": 1808010,
+    "bay": "6",
     "service_id": "2",
     "stop_id": "1",
     "arrival_time": "14:45:00",
@@ -3489,6 +3806,7 @@
   {
     "block_id": "SB3SU",
     "trip_id": 2353010,
+    "bay": "6",
     "service_id": "2",
     "stop_id": "1",
     "arrival_time": "10:15:00",
@@ -3500,6 +3818,7 @@
   {
     "block_id": "SB4",
     "trip_id": 805020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "21:00:00",
@@ -3511,6 +3830,7 @@
   {
     "block_id": "SB4",
     "trip_id": 1131020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "15:45:00",
@@ -3522,6 +3842,7 @@
   {
     "block_id": "SB4",
     "trip_id": 1135020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "08:15:00",
@@ -3533,6 +3854,7 @@
   {
     "block_id": "SB4",
     "trip_id": 1351020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "05:45:00",
@@ -3544,6 +3866,7 @@
   {
     "block_id": "SB4",
     "trip_id": 1620020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "10:45:00",
@@ -3555,6 +3878,7 @@
   {
     "block_id": "SB4",
     "trip_id": 2230020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "13:15:00",
@@ -3566,6 +3890,7 @@
   {
     "block_id": "SB4",
     "trip_id": 2254020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "18:15:00",
@@ -3577,6 +3902,7 @@
   {
     "block_id": "SB4H",
     "trip_id": 1160090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "13:15:00",
@@ -3588,6 +3914,7 @@
   {
     "block_id": "SB4H",
     "trip_id": 1552090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "15:45:00",
@@ -3599,6 +3926,7 @@
   {
     "block_id": "SB4H",
     "trip_id": 1577090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "10:45:00",
@@ -3610,6 +3938,7 @@
   {
     "block_id": "SB4H",
     "trip_id": 2081090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "08:15:00",
@@ -3621,6 +3950,7 @@
   {
     "block_id": "SB4H",
     "trip_id": 2402090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "18:15:00",
@@ -3632,6 +3962,7 @@
   {
     "block_id": "SB4SA",
     "trip_id": 131070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "13:15:00",
@@ -3643,6 +3974,7 @@
   {
     "block_id": "SB4SA",
     "trip_id": 131080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "13:15:00",
@@ -3654,6 +3986,7 @@
   {
     "block_id": "SB4SA",
     "trip_id": 1368070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "10:45:00",
@@ -3665,6 +3998,7 @@
   {
     "block_id": "SB4SA",
     "trip_id": 1368080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "10:45:00",
@@ -3676,6 +4010,7 @@
   {
     "block_id": "SB4SA",
     "trip_id": 2070070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "18:15:00",
@@ -3687,6 +4022,7 @@
   {
     "block_id": "SB4SA",
     "trip_id": 2070080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "18:15:00",
@@ -3698,6 +4034,7 @@
   {
     "block_id": "SB4SA",
     "trip_id": 2602070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "08:15:00",
@@ -3709,6 +4046,7 @@
   {
     "block_id": "SB4SA",
     "trip_id": 2602080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "08:15:00",
@@ -3720,6 +4058,7 @@
   {
     "block_id": "SB4SA",
     "trip_id": 2619070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "15:45:00",
@@ -3731,6 +4070,7 @@
   {
     "block_id": "SB4SA",
     "trip_id": 2619080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "15:45:00",
@@ -3742,6 +4082,7 @@
   {
     "block_id": "SB5H",
     "trip_id": 5090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "10:45:00",
@@ -3753,6 +4094,7 @@
   {
     "block_id": "SB5H",
     "trip_id": 874090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "09:15:00",
@@ -3764,6 +4106,7 @@
   {
     "block_id": "SB5H",
     "trip_id": 1567090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "16:45:00",
@@ -3775,6 +4118,7 @@
   {
     "block_id": "SB5H",
     "trip_id": 1949090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "18:15:00",
@@ -3786,6 +4130,7 @@
   {
     "block_id": "SB5H",
     "trip_id": 2206090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "12:15:00",
@@ -3797,6 +4142,7 @@
   {
     "block_id": "SB5H",
     "trip_id": 2411090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "13:45:00",
@@ -3808,6 +4154,7 @@
   {
     "block_id": "SB5H",
     "trip_id": 2519090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "15:15:00",
@@ -3819,6 +4166,7 @@
   {
     "block_id": "SB5SA",
     "trip_id": 624070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "12:15:00",
@@ -3830,6 +4178,7 @@
   {
     "block_id": "SB5SA",
     "trip_id": 624080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "12:15:00",
@@ -3841,6 +4190,7 @@
   {
     "block_id": "SB5SA",
     "trip_id": 649070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "09:15:00",
@@ -3852,6 +4202,7 @@
   {
     "block_id": "SB5SA",
     "trip_id": 649080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "09:15:00",
@@ -3863,6 +4214,7 @@
   {
     "block_id": "SB5SA",
     "trip_id": 814070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "18:15:00",
@@ -3874,6 +4226,7 @@
   {
     "block_id": "SB5SA",
     "trip_id": 814080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "18:15:00",
@@ -3885,6 +4238,7 @@
   {
     "block_id": "SB5SA",
     "trip_id": 1258070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "16:45:00",
@@ -3896,6 +4250,7 @@
   {
     "block_id": "SB5SA",
     "trip_id": 1258080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "16:45:00",
@@ -3907,6 +4262,7 @@
   {
     "block_id": "SB5SA",
     "trip_id": 1644070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "13:45:00",
@@ -3918,6 +4274,7 @@
   {
     "block_id": "SB5SA",
     "trip_id": 1644080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "13:45:00",
@@ -3929,6 +4286,7 @@
   {
     "block_id": "SB5SA",
     "trip_id": 1829070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "15:15:00",
@@ -3940,6 +4298,7 @@
   {
     "block_id": "SB5SA",
     "trip_id": 1829080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "15:15:00",
@@ -3951,6 +4310,7 @@
   {
     "block_id": "SB5SA",
     "trip_id": 2186070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "10:45:00",
@@ -3962,6 +4322,7 @@
   {
     "block_id": "SB5SA",
     "trip_id": 2186080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "10:45:00",
@@ -3973,6 +4334,7 @@
   {
     "block_id": "SB6",
     "trip_id": 489020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "06:15:00",
@@ -3984,6 +4346,7 @@
   {
     "block_id": "SB6",
     "trip_id": 592020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "20:20:00",
@@ -3995,6 +4358,7 @@
   {
     "block_id": "SB6",
     "trip_id": 661020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:45:00",
@@ -4006,6 +4370,7 @@
   {
     "block_id": "SB6",
     "trip_id": 722020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "12:45:00",
@@ -4017,6 +4382,7 @@
   {
     "block_id": "SB6",
     "trip_id": 1122020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "07:45:00",
@@ -4028,6 +4394,7 @@
   {
     "block_id": "SB6",
     "trip_id": 1672020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "10:15:00",
@@ -4039,6 +4406,7 @@
   {
     "block_id": "SB6",
     "trip_id": 2322020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "15:15:00",
@@ -4050,6 +4418,7 @@
   {
     "block_id": "SB6SA",
     "trip_id": 460070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "11:15:00",
@@ -4061,6 +4430,7 @@
   {
     "block_id": "SB6SA",
     "trip_id": 460080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "11:15:00",
@@ -4072,6 +4442,7 @@
   {
     "block_id": "SB6SA",
     "trip_id": 843070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "13:45:00",
@@ -4083,6 +4454,7 @@
   {
     "block_id": "SB6SA",
     "trip_id": 843080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "13:45:00",
@@ -4094,6 +4466,7 @@
   {
     "block_id": "SB6SA",
     "trip_id": 1142070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "16:15:00",
@@ -4105,6 +4478,7 @@
   {
     "block_id": "SB6SA",
     "trip_id": 1142080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "16:15:00",
@@ -4116,6 +4490,7 @@
   {
     "block_id": "SB6SA",
     "trip_id": 2364070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "08:45:00",
@@ -4127,6 +4502,7 @@
   {
     "block_id": "SB6SA",
     "trip_id": 2364080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "08:45:00",
@@ -4138,6 +4514,7 @@
   {
     "block_id": "WS1",
     "trip_id": 59020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "09:30:00",
@@ -4149,6 +4526,7 @@
   {
     "block_id": "WS1",
     "trip_id": 153020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "13:30:00",
@@ -4160,6 +4538,7 @@
   {
     "block_id": "WS1",
     "trip_id": 181020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:30:00",
@@ -4171,6 +4550,7 @@
   {
     "block_id": "WS1",
     "trip_id": 351020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "15:30:00",
@@ -4182,6 +4562,7 @@
   {
     "block_id": "WS1",
     "trip_id": 599020,
+    "bay": "7-9",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "07:30:00",
@@ -4193,6 +4574,7 @@
   {
     "block_id": "WS1",
     "trip_id": 936020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "10:30:00",
@@ -4204,6 +4586,7 @@
   {
     "block_id": "WS1",
     "trip_id": 1066020,
+    "bay": "8",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "18:35:00",
@@ -4215,6 +4598,7 @@
   {
     "block_id": "WS1",
     "trip_id": 1508020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:30:00",
@@ -4226,6 +4610,7 @@
   {
     "block_id": "WS1",
     "trip_id": 1980020,
+    "bay": "7",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "14:30:00",
@@ -4237,6 +4622,7 @@
   {
     "block_id": "WS1",
     "trip_id": 2185020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "11:30:00",
@@ -4248,6 +4634,7 @@
   {
     "block_id": "WS1",
     "trip_id": 2299020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "12:30:00",
@@ -4259,6 +4646,7 @@
   {
     "block_id": "WS1",
     "trip_id": 2381020,
+    "bay": "7",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "19:35:00",
@@ -4270,6 +4658,7 @@
   {
     "block_id": "WS1",
     "trip_id": 2479020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "08:30:00",
@@ -4281,6 +4670,7 @@
   {
     "block_id": "WS1H",
     "trip_id": 352090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "10:30:00",
@@ -4292,6 +4682,7 @@
   {
     "block_id": "WS1H",
     "trip_id": 628090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "18:35:00",
@@ -4303,6 +4694,7 @@
   {
     "block_id": "WS1H",
     "trip_id": 932090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "15:30:00",
@@ -4314,6 +4706,7 @@
   {
     "block_id": "WS1H",
     "trip_id": 1058090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "08:30:00",
@@ -4325,6 +4718,7 @@
   {
     "block_id": "WS1H",
     "trip_id": 1081090,
+    "bay": "7-9",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "07:30:00",
@@ -4336,6 +4730,7 @@
   {
     "block_id": "WS1H",
     "trip_id": 1174090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "13:30:00",
@@ -4347,6 +4742,7 @@
   {
     "block_id": "WS1H",
     "trip_id": 1384090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "14:30:00",
@@ -4358,6 +4754,7 @@
   {
     "block_id": "WS1H",
     "trip_id": 1697090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "17:30:00",
@@ -4369,6 +4766,7 @@
   {
     "block_id": "WS1H",
     "trip_id": 2101090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "09:30:00",
@@ -4380,6 +4778,7 @@
   {
     "block_id": "WS1H",
     "trip_id": 2160090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "16:30:00",
@@ -4391,6 +4790,7 @@
   {
     "block_id": "WS1H",
     "trip_id": 2333090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "11:30:00",
@@ -4402,6 +4802,7 @@
   {
     "block_id": "WS1H",
     "trip_id": 2342090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "12:30:00",
@@ -4413,6 +4814,7 @@
   {
     "block_id": "WS1SA",
     "trip_id": 71070,
+    "bay": "4",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "10:30:00",
@@ -4424,6 +4826,7 @@
   {
     "block_id": "WS1SA",
     "trip_id": 71080,
+    "bay": "4",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "10:30:00",
@@ -4435,6 +4838,7 @@
   {
     "block_id": "WS1SA",
     "trip_id": 152070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "12:30:00",
@@ -4446,6 +4850,7 @@
   {
     "block_id": "WS1SA",
     "trip_id": 152080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "12:30:00",
@@ -4457,6 +4862,7 @@
   {
     "block_id": "WS1SA",
     "trip_id": 594070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "14:30:00",
@@ -4468,6 +4874,7 @@
   {
     "block_id": "WS1SA",
     "trip_id": 594080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "14:30:00",
@@ -4479,6 +4886,7 @@
   {
     "block_id": "WS1SA",
     "trip_id": 2397070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "15:30:00",
@@ -4490,6 +4898,7 @@
   {
     "block_id": "WS1SA",
     "trip_id": 2397080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "15:30:00",
@@ -4501,6 +4910,7 @@
   {
     "block_id": "WS1SA",
     "trip_id": 2442070,
+    "bay": "4",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "13:30:00",
@@ -4512,6 +4922,7 @@
   {
     "block_id": "WS1SA",
     "trip_id": 2442080,
+    "bay": "4",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "13:30:00",
@@ -4523,6 +4934,7 @@
   {
     "block_id": "WS1SA",
     "trip_id": 2478070,
+    "bay": "4",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "16:30:00",
@@ -4534,6 +4946,7 @@
   {
     "block_id": "WS1SA",
     "trip_id": 2478080,
+    "bay": "4",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "16:30:00",
@@ -4545,6 +4958,7 @@
   {
     "block_id": "WS1SA",
     "trip_id": 2543070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "11:30:00",
@@ -4556,6 +4970,7 @@
   {
     "block_id": "WS1SA",
     "trip_id": 2543080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "11:30:00",
@@ -4567,6 +4982,7 @@
   {
     "block_id": "WS1SA",
     "trip_id": 2610070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "17:30:00",
@@ -4578,6 +4994,7 @@
   {
     "block_id": "WS1SA",
     "trip_id": 2610080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "17:30:00",
@@ -4589,6 +5006,7 @@
   {
     "block_id": "WS2",
     "trip_id": 98020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "12:30:00",
@@ -4600,6 +5018,7 @@
   {
     "block_id": "WS2",
     "trip_id": 286020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:30:00",
@@ -4611,6 +5030,7 @@
   {
     "block_id": "WS2",
     "trip_id": 319020,
+    "bay": "8",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:30:00",
@@ -4622,6 +5042,7 @@
   {
     "block_id": "WS2",
     "trip_id": 374020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "14:30:00",
@@ -4633,6 +5054,7 @@
   {
     "block_id": "WS2",
     "trip_id": 634020,
+    "bay": "7-9",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "07:30:00",
@@ -4644,6 +5066,7 @@
   {
     "block_id": "WS2",
     "trip_id": 1299020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "09:30:00",
@@ -4655,6 +5078,7 @@
   {
     "block_id": "WS2",
     "trip_id": 1564020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "19:35:00",
@@ -4666,6 +5090,7 @@
   {
     "block_id": "WS2",
     "trip_id": 1617020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "10:30:00",
@@ -4677,6 +5102,7 @@
   {
     "block_id": "WS2",
     "trip_id": 1707020,
+    "bay": "7",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "15:30:00",
@@ -4688,6 +5114,7 @@
   {
     "block_id": "WS2",
     "trip_id": 1710020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "18:35:00",
@@ -4699,6 +5126,7 @@
   {
     "block_id": "WS2",
     "trip_id": 1722020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "13:30:00",
@@ -4710,6 +5138,7 @@
   {
     "block_id": "WS2",
     "trip_id": 1760020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "11:30:00",
@@ -4721,6 +5150,7 @@
   {
     "block_id": "WS2",
     "trip_id": 2467020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "08:30:00",
@@ -4732,6 +5162,7 @@
   {
     "block_id": "WS2H",
     "trip_id": 252090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "11:30:00",
@@ -4743,6 +5174,7 @@
   {
     "block_id": "WS2H",
     "trip_id": 501090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "14:30:00",
@@ -4754,6 +5186,7 @@
   {
     "block_id": "WS2H",
     "trip_id": 940090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "15:30:00",
@@ -4765,6 +5198,7 @@
   {
     "block_id": "WS2H",
     "trip_id": 1114090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "09:30:00",
@@ -4776,6 +5210,7 @@
   {
     "block_id": "WS2H",
     "trip_id": 1333090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "12:30:00",
@@ -4787,6 +5222,7 @@
   {
     "block_id": "WS2H",
     "trip_id": 1840090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "18:35:00",
@@ -4798,6 +5234,7 @@
   {
     "block_id": "WS2H",
     "trip_id": 2010090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "13:30:00",
@@ -4809,6 +5246,7 @@
   {
     "block_id": "WS2H",
     "trip_id": 2033090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "17:30:00",
@@ -4820,6 +5258,7 @@
   {
     "block_id": "WS2H",
     "trip_id": 2072090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "16:30:00",
@@ -4831,6 +5270,7 @@
   {
     "block_id": "WS2H",
     "trip_id": 2127090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "08:30:00",
@@ -4842,6 +5282,7 @@
   {
     "block_id": "WS2H",
     "trip_id": 2248090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "10:30:00",
@@ -4853,6 +5294,7 @@
   {
     "block_id": "WS2SA",
     "trip_id": 172070,
+    "bay": "4",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "15:30:00",
@@ -4864,6 +5306,7 @@
   {
     "block_id": "WS2SA",
     "trip_id": 172080,
+    "bay": "4",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "15:30:00",
@@ -4875,6 +5318,7 @@
   {
     "block_id": "WS2SA",
     "trip_id": 721070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "14:30:00",
@@ -4886,6 +5330,7 @@
   {
     "block_id": "WS2SA",
     "trip_id": 721080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "14:30:00",
@@ -4897,6 +5342,7 @@
   {
     "block_id": "WS2SA",
     "trip_id": 781070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "17:30:00",
@@ -4908,6 +5354,7 @@
   {
     "block_id": "WS2SA",
     "trip_id": 781080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "17:30:00",
@@ -4919,6 +5366,7 @@
   {
     "block_id": "WS2SA",
     "trip_id": 1144070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "11:30:00",
@@ -4930,6 +5378,7 @@
   {
     "block_id": "WS2SA",
     "trip_id": 1144080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "11:30:00",
@@ -4941,6 +5390,7 @@
   {
     "block_id": "WS2SA",
     "trip_id": 1835070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "16:30:00",
@@ -4952,6 +5402,7 @@
   {
     "block_id": "WS2SA",
     "trip_id": 1835080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "16:30:00",
@@ -4963,6 +5414,7 @@
   {
     "block_id": "WS2SA",
     "trip_id": 2125070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "10:30:00",
@@ -4974,6 +5426,7 @@
   {
     "block_id": "WS2SA",
     "trip_id": 2125080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "10:30:00",
@@ -4985,6 +5438,7 @@
   {
     "block_id": "WS2SA",
     "trip_id": 2583070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "13:30:00",
@@ -4996,6 +5450,7 @@
   {
     "block_id": "WS2SA",
     "trip_id": 2583080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "13:30:00",
@@ -5007,6 +5462,7 @@
   {
     "block_id": "WS2SA",
     "trip_id": 2622070,
+    "bay": "4",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "12:30:00",
@@ -5018,6 +5474,7 @@
   {
     "block_id": "WS2SA",
     "trip_id": 2622080,
+    "bay": "4",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "12:30:00",
@@ -5029,6 +5486,7 @@
   {
     "block_id": "WS3",
     "trip_id": 158020,
+    "bay": "7-9",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "07:30:00",
@@ -5040,6 +5498,7 @@
   {
     "block_id": "WS3",
     "trip_id": 536020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "18:35:00",
@@ -5051,6 +5510,7 @@
   {
     "block_id": "WS3",
     "trip_id": 897020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "11:30:00",
@@ -5062,6 +5522,7 @@
   {
     "block_id": "WS3",
     "trip_id": 1450020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "14:30:00",
@@ -5073,6 +5534,7 @@
   {
     "block_id": "WS3",
     "trip_id": 1464020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "12:30:00",
@@ -5084,6 +5546,7 @@
   {
     "block_id": "WS3",
     "trip_id": 1554020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "08:30:00",
@@ -5095,6 +5558,7 @@
   {
     "block_id": "WS3",
     "trip_id": 1692020,
+    "bay": "7",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "13:30:00",
@@ -5106,6 +5570,7 @@
   {
     "block_id": "WS3",
     "trip_id": 1824020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "15:30:00",
@@ -5117,6 +5582,7 @@
   {
     "block_id": "WS3",
     "trip_id": 1979020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:30:00",
@@ -5128,6 +5594,7 @@
   {
     "block_id": "WS3",
     "trip_id": 2367020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "10:30:00",
@@ -5139,6 +5606,7 @@
   {
     "block_id": "WS3",
     "trip_id": 2505020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "09:30:00",
@@ -5150,6 +5618,7 @@
   {
     "block_id": "WS3H",
     "trip_id": 525090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "16:30:00",
@@ -5161,6 +5630,7 @@
   {
     "block_id": "WS3H",
     "trip_id": 575090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "11:30:00",
@@ -5172,6 +5642,7 @@
   {
     "block_id": "WS3H",
     "trip_id": 859090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "13:30:00",
@@ -5183,6 +5654,7 @@
   {
     "block_id": "WS3H",
     "trip_id": 1056090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "18:35:00",
@@ -5194,6 +5666,7 @@
   {
     "block_id": "WS3H",
     "trip_id": 1226090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "12:30:00",
@@ -5205,6 +5678,7 @@
   {
     "block_id": "WS3H",
     "trip_id": 1354090,
+    "bay": "5",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "10:30:00",
@@ -5216,6 +5690,7 @@
   {
     "block_id": "WS3H",
     "trip_id": 2097090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "15:30:00",
@@ -5227,6 +5702,7 @@
   {
     "block_id": "WS3H",
     "trip_id": 2166090,
+    "bay": "6",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "09:30:00",
@@ -5238,6 +5714,7 @@
   {
     "block_id": "WS3H",
     "trip_id": 2201090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "17:30:00",
@@ -5249,6 +5726,7 @@
   {
     "block_id": "WS3H",
     "trip_id": 2205090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "14:30:00",
@@ -5260,6 +5738,7 @@
   {
     "block_id": "WS3H",
     "trip_id": 2458090,
+    "bay": "4",
     "service_id": "5",
     "stop_id": "1",
     "arrival_time": "08:30:00",
@@ -5271,6 +5750,7 @@
   {
     "block_id": "WS3SA",
     "trip_id": 103070,
+    "bay": "4",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "17:30:00",
@@ -5282,6 +5762,7 @@
   {
     "block_id": "WS3SA",
     "trip_id": 103080,
+    "bay": "4",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "17:30:00",
@@ -5293,6 +5774,7 @@
   {
     "block_id": "WS3SA",
     "trip_id": 790070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "10:30:00",
@@ -5304,6 +5786,7 @@
   {
     "block_id": "WS3SA",
     "trip_id": 790080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "10:30:00",
@@ -5315,6 +5798,7 @@
   {
     "block_id": "WS3SA",
     "trip_id": 1166070,
+    "bay": "4",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "11:30:00",
@@ -5326,6 +5810,7 @@
   {
     "block_id": "WS3SA",
     "trip_id": 1166080,
+    "bay": "4",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "11:30:00",
@@ -5337,6 +5822,7 @@
   {
     "block_id": "WS3SA",
     "trip_id": 1307070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "12:30:00",
@@ -5348,6 +5834,7 @@
   {
     "block_id": "WS3SA",
     "trip_id": 1307080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "12:30:00",
@@ -5359,6 +5846,7 @@
   {
     "block_id": "WS3SA",
     "trip_id": 1641070,
+    "bay": "4",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "14:30:00",
@@ -5370,6 +5858,7 @@
   {
     "block_id": "WS3SA",
     "trip_id": 1641080,
+    "bay": "4",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "14:30:00",
@@ -5381,6 +5870,7 @@
   {
     "block_id": "WS3SA",
     "trip_id": 1845070,
+    "bay": "6",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "15:30:00",
@@ -5392,6 +5882,7 @@
   {
     "block_id": "WS3SA",
     "trip_id": 1845080,
+    "bay": "6",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "15:30:00",
@@ -5403,6 +5894,7 @@
   {
     "block_id": "WS3SA",
     "trip_id": 1962070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "16:30:00",
@@ -5414,6 +5906,7 @@
   {
     "block_id": "WS3SA",
     "trip_id": 1962080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "16:30:00",
@@ -5425,6 +5918,7 @@
   {
     "block_id": "WS3SA",
     "trip_id": 2449070,
+    "bay": "5",
     "service_id": "4",
     "stop_id": "1",
     "arrival_time": "13:30:00",
@@ -5436,6 +5930,7 @@
   {
     "block_id": "WS3SA",
     "trip_id": 2449080,
+    "bay": "5",
     "service_id": "1",
     "stop_id": "1",
     "arrival_time": "13:30:00",
@@ -5447,6 +5942,7 @@
   {
     "block_id": "WS4",
     "trip_id": 533020,
+    "bay": "13",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "18:35:00",
@@ -5458,6 +5954,7 @@
   {
     "block_id": "WS4",
     "trip_id": 840020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:30:00",
@@ -5469,6 +5966,7 @@
   {
     "block_id": "WS4",
     "trip_id": 1047020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "20:30:00",
@@ -5480,6 +5978,7 @@
   {
     "block_id": "WS4",
     "trip_id": 1804020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "14:30:00",
@@ -5491,6 +5990,7 @@
   {
     "block_id": "WS4",
     "trip_id": 2052020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "13:30:00",
@@ -5502,6 +6002,7 @@
   {
     "block_id": "WS4",
     "trip_id": 2074020,
+    "bay": "7",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:30:00",
@@ -5513,6 +6014,7 @@
   {
     "block_id": "WS4",
     "trip_id": 2246020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "19:35:00",
@@ -5524,6 +6026,7 @@
   {
     "block_id": "WS5",
     "trip_id": 27020,
+    "bay": "4",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "18:35:00",
@@ -5535,6 +6038,7 @@
   {
     "block_id": "WS5",
     "trip_id": 164020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "15:30:00",
@@ -5546,6 +6050,7 @@
   {
     "block_id": "WS5",
     "trip_id": 342020,
+    "bay": "8",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "19:35:00",
@@ -5557,6 +6062,7 @@
   {
     "block_id": "WS5",
     "trip_id": 1044020,
+    "bay": "14",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "14:35:00",
@@ -5568,6 +6074,7 @@
   {
     "block_id": "WS5",
     "trip_id": 1347020,
+    "bay": "7",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "17:30:00",
@@ -5579,6 +6086,7 @@
   {
     "block_id": "WS5",
     "trip_id": 1436020,
+    "bay": "5",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "16:30:00",
@@ -5590,6 +6098,7 @@
   {
     "block_id": "WS5",
     "trip_id": 2048020,
+    "bay": "6",
     "service_id": "3",
     "stop_id": "1",
     "arrival_time": "20:30:00",
